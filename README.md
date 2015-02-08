@@ -1,10 +1,8 @@
 # Grove - 3Axis Digital Accelerometer
-
-## 簡介
-
 三軸加速度感測器的可以在預先不知道物體運動方向的情況下，應用各個維度的加速度感測器來檢測加速度資訊。三維加速度感測器具有體積小和輕量的特點，可以測量空間加速度，並且能夠全面準確反映物體的運動情形。本文使用的[三軸加速感測器為此](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Accelerometer15g-p-765.html)。
 
 ## 腳位接法
+
 | HC05 pin | Mbed pin   |
 | -------- | ---------- |
 | 1 - SCL  | P27 - SCL  |
