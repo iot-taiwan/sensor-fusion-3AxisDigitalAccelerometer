@@ -16,6 +16,7 @@
 | 4 - GND  | GND        |
 
 ![圖2 腳位接法範例圖](pin.png)
+
 圖2 腳位接法範例圖
 
 備註：Mbed腳位只要是 SCL及 SDA即可，以 LPC1768為例：P9、P10也可使用。	
@@ -25,6 +26,7 @@
 感測器本身會會回傳 0~63的結果，我們可以透過此結果依表轉換成 G值(1g=m/s^2)或者角度(不建議使用)，詳細對照表可參照[此文件](http://www.freescale.com.cn/files/sensors/doc/data_sheet/MMA7660FC.pdf?fpsp=1) P.26~P.27。
 
 ![圖3 數據解析對照表](table.png)
+
 圖3 數據解析對照表
 
 
